@@ -5,6 +5,7 @@ This is a LawFirm agency website that I created with HTML, CSS, and Javascript. 
 Built with
 - HTML
 - CSS
+  - Transition Effects
 - Javascript
   - DOM
   - QuerySelectorAll
